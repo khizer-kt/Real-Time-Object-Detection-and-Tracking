@@ -44,7 +44,7 @@ To run the code:
 1. Make sure you have the required files and a video source (file or webcam) ready.
 2. Ensure you have OpenCV and NumPy installed.
 3. Adjust the file paths and video source as needed.
-4. Run the code.
+4. Run the code. (optimized.py)
 ### Performance Metrics
 The performance of this system can be evaluated based on the following metrics:
 - **Detection Accuracy:** How accurately the system detects objects in the video stream.
