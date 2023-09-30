@@ -1,3 +1,2 @@
-pycocotools
-tf-object-detection-util
+numpy
 opencv-contrib-python
